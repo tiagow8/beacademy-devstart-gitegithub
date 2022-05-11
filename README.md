@@ -1,7 +1,7 @@
 # beacademy-devstart-gitegithub
 Repositório criado com a finalidade de fazer e entregar os exercicios propostos em aula pelos professores do programa BeAcademy-devstart.
 
-# Comandos git Apresentados em aulas: 💻📚
+# Comandos git apresentados em aulas: 💻📚
 Comandos basico para desde a inicialização da criação de um projeto até subir para o repositório.
 
 Iniciar o repositório git:
