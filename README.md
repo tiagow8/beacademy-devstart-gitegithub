@@ -7,13 +7,13 @@ Comandos basico para desde a inicialização da criação de um projeto até sub
 Iniciar o repositório git:
 
   git init
-Verificar o status do arquivo:
+Inicia o repositório do arquivo:
 
   git status
 Adicionar todos os arquivos e salvar :
 
   git add .
-ou Adicionar o arquivo que você deseja:
+Adicionar todos os arquivos criados por você de uma única vez:
 
   git add nome-do-arquivo
 Adicionar o commit :
